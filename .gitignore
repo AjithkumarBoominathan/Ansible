@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Ansible
+*.retry
+*.swp
+*.swo
+*~
+.vault_password
+vault.txt
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Misc
+*.log
+*.tmp
+.cache/
